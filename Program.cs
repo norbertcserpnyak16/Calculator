@@ -26,14 +26,7 @@ namespace Szamologep
 			Console.WriteLine($"Result of dividing variables A and B: {ab4}");
 		}
 
-		static bool Paros(int szam)
-		{
-			return szam % 2 == 0;
-		}
-		static bool Pozitiv(double number)
-		{
-			return number >= 0;
-		}
+		
 	}
 }
 
